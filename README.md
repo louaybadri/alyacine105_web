@@ -31,19 +31,19 @@
 
 ## Assign Schedule to Professor
 
-![Assign Schedule to Professor](/assets/form1.png)
+![Assign Schedule to Professor](/assets/Form1.png)
 - Schedule assignment for professors.
 
 ---
 
 ## Assign Schedule to Student
 
-![Assign Schedule to Student](/assets/form2.png)
+![Assign Schedule to Student](/assets/Form2.png)
 - Schedule assignment for students.
 
 ---
 
 ## Assign Student to Class
 
-![Assign Student to Class](/assets/form3.png)
+![Assign Student to Class](/assets/Form3.png)
 - Student assignment to classes.
